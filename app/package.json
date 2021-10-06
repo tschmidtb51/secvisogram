@@ -71,7 +71,7 @@
     "postcss-import": "^14.0.2",
     "postcss-loader": "^6.1.1",
     "raw-loader": "^4.0.2",
-    "tailwindcss": "^2.2.15",
+    "tailwindcss": "^2.2.16",
     "webpack": "^5.52.1",
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.2.0",
